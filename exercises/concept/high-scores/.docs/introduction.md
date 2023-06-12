@@ -24,7 +24,7 @@ To get a value by a key from the hash table you use the `gethash` function:
                    ;    T
 ```
 
-`gethash` returns [multiple values](/concepts/multiple-values) which will be explained in another concept.
+`gethash` returns [multiple values](concept-multiple-values) which will be explained in another concept.
 
 ### Inserting values
 
@@ -37,4 +37,4 @@ It returns the value.
 
 The use of `setf` will be explained in another concept.
 
-[concept-multiple-values]: /tracks/common-lisp/concepts/multiple-values
+[concept-multiple-values][/tracks/common-lisp/concepts/multiple-values]
